@@ -16,7 +16,7 @@ Dark             |  Light
 - huge amount of UI elements that are polished
 
 # Plugin support
-> Adjusting theme colors for plugins 
+> Adjustment of UI colors to fit the theme
 - Calendar Widget
 - Day planner
 
