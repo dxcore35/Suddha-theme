@@ -1,3 +1,5 @@
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/dxcore35/Suddha-theme?style=for-the-badge)
+
 >Suddha - __Meaning:__ _clean, pure, purified, pure of heart_ (Pali language word origin)
 
 Dark             |  Light
