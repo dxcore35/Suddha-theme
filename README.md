@@ -1,4 +1,4 @@
->This is pure 7 minimalistic Obsidian theme
+>This is pure & minimalistic Obsidian theme
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
