@@ -13,6 +13,13 @@ Dark             |  Light
 - extra icons
 - main buttons are hidden
 - clean and modern typescripts
-- adjusting theme colors for plugins 
+- huge amount of UI elements that are polished
+
+# Plugin support
+> Adjusting theme colors for plugins 
+- Calendar Widget
+- Day planner
+
+# More screenshots
 
 ![](https://github.com/dxcore35/Suddha-theme/blob/main/Images/Preview2.jpg)
