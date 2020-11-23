@@ -1,4 +1,5 @@
 >Suddha {Pali language origin}
+
 >__Meaning:__ _clean, pure, purified, pure of heart_
 
 Dark             |  Light
