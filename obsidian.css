@@ -2760,7 +2760,7 @@ content: url("data:image/svg+xml;charset=UTF-8, <svg xmlns='http://www.w3.org/20
 .tree-item-inner {
     /* font-size: 60%; */
     text-transform: uppercase;
-    margin: -11px -2px;
+    margin: 1px -2px -10px 0;
 }
 
 /* --------------- */
@@ -3371,10 +3371,10 @@ tr:nth-child(odd) {
 .markdown-preview-view th, .markdown-preview-view td {
     padding: 2px 5px 0 0;
     border: 0.5px solid transparent;
-    text-align: justify;
+    text-align: left;
     font-size: 95%;
     word-break: keep-all;
-    hyphens: manual;
+    hyphens: auto;
 }
 
 /* --------------- */
@@ -3696,4 +3696,7 @@ div#dangling-links .cm-hmd-list-indent .cm-tab, li ul, li ol {
     position: relative;
     /* margin: 0 0 0 0; */
     padding-left: 15px;
+    line-height: 1.2em;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
